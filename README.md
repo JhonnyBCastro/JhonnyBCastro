@@ -33,7 +33,7 @@ Atualmente, estou em busca de uma oportunidade para trabalhar com **Java**, seja
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JhonnyBCastro&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JhonnyBCastro)
 
-[![JhonnyBCastro's GitHub activity graph](https://streak-stats.demolab.com?user=JhonnyBCastro&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JhonnyBCastro&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonata-castro-devFullStack)
