@@ -14,7 +14,7 @@ Atualmente, estou em busca de uma oportunidade para trabalhar com **Java**, seja
 - **Desenvolvendo Testes utilizando Mockito** - DIO.me
 
 ## Projetos
-- [Sistema de Gerenciamento de Filiais]([https://github.com/suelenmedinape/projeto-JSF]) - Sistema em JSF/JPA para cadastro de funcionários e filiais.
+- [Sistema de Gerenciamento de Filiais](https://github.com/suelenmedinape/projeto-JSF) - Sistema em JSF/JPA para cadastro de funcionários e filiais.
 
 ## Conhecimentos
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
