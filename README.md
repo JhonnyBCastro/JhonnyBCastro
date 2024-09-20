@@ -12,6 +12,8 @@ Atualmente, estou em busca de uma oportunidade para trabalhar com **Java**, seja
 - **Coleções em Java** - DIO.me
 - **Testes Unitários com JUnit** - DIO.me
 - **Desenvolvendo Testes utilizando Mockito** - DIO.me
+- **Introdução a Banco de Dados SQL** - DIO.me
+- **Introdução ao MongoDB e Banco de Dados NoSQL** - DIO.me
 
 ## Projetos
 - [Sistema de Gerenciamento de Filiais](https://github.com/suelenmedinape/projeto-JSF) - Sistema em JSF/JPA para cadastro de funcionários e filiais.
@@ -26,6 +28,7 @@ Atualmente, estou em busca de uma oportunidade para trabalhar com **Java**, seja
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Sistema Operacional
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
