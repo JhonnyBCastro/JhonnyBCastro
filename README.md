@@ -17,7 +17,7 @@ Atualmente, estou em busca de uma oportunidade para trabalhar com **Java**, seja
 
 ## Projetos
 - [Sistema de Gerenciamento de Filiais](https://github.com/suelenmedinape/projeto-JSF) - Sistema em JSF/JPA para cadastro de funcionários e filiais.
-- [Sistema de Gerenciar Histórico de Atendimentos]([https://github.com/suelenmedinape/projeto-JSF](https://github.com/JhonnyBCastro/projeto-JSF-gerenciar-historico) - Sistema em JSF/JPA para gerenciar o histórico de atendimentos de pacientes e médicos em uma clínica.
+- [Sistema de Gerenciar Histórico de Atendimentos](https://github.com/JhonnyBCastro/projeto-JSF-gerenciar-historico) - Sistema em JSF/JPA para gerenciar o histórico de atendimentos de pacientes e médicos em uma clínica.
 
 
 ## Conhecimentos
