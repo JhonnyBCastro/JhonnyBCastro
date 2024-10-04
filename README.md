@@ -41,6 +41,6 @@ Atualmente, estou em busca de uma oportunidade para trabalhar com **Java**, seja
 [![GitHub Streak](https://streak-stats.demolab.com?user=JhonnyBCastro&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonata-castro-devFullStack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonata-castro-dev)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@bobycastro/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonny_bcastro/)
