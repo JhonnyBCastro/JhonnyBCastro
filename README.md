@@ -1,11 +1,11 @@
 # Jhonny Castro - Estudante de Sistemas de Informação | Desenvolvedor Java
 
-Sou estudante de Sistemas de Informação, fascinado pelas possibilidades que a tecnologia pode oferecer, com um grande interesse em desenvolvimento de software, especialmente com Java. Sempre em busca de novos conhecimentos, estou pronto para encarar desafios e contribuir com projetos reais.
+Sou estudante de Sistemas de Informação, fascinado pelas possibilidades que a tecnologia pode oferecer, com um grande interesse em desenvolvimento de software, especialmente com Java.
 
 Apesar de encontrar desafios na fixação de alguns conceitos, meu entusiasmo e dedicação me mantêm motivado. Acredito que a prática é a melhor forma de solidificar o aprendizado, por isso busco constantemente aplicar o que aprendo em projetos e desafios práticos.
 
 ## Em busca de novas oportunidades
-Atualmente, estou em busca de uma oportunidade para trabalhar com **Java**, seja no **desenvolvimento web**, **Android** ou **software**. Se você está procurando alguém comprometido e que ama tecnologia, vamos nos conectar! 💼
+Atualmente, estou em busca de uma oportunidade para trabalhar com **Java**, seja no **desenvolvimento web**, **Android** ou **software**.
 
 ## Certificações e Cursos
 - **Java POO** - DIO.me
