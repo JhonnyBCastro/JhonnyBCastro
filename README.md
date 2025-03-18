@@ -18,7 +18,7 @@ Atualmente, estou em busca de uma oportunidade para trabalhar com **Java**, seja
 - **Java POO + Projetos** - Udemy
 
 ## Projetos
-- [Sistema de Gerenciamento de Filiais](https://github.com/suelenmedinape/projeto-JSF) - Sistema em JSF/JPA para cadastro de funcionários e filiais.
+- [Plataforma de e-commerce](https://github.com/JhonnyBCastro/ecommerce-laticionios) - Plataforma de e-commerce para a venda de laticínios por encomenda, desenvolvida para um vendedor autônomo.
 - [Sistema de Gerenciar Histórico de Atendimentos](https://github.com/JhonnyBCastro/projeto-JSF-gerenciar-historico) - Sistema em JSF/JPA para gerenciar o histórico de atendimentos de pacientes e médicos em uma clínica.
 
 ## Conhecimentos
