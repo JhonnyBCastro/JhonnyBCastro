@@ -15,6 +15,7 @@ Atualmente, estou em busca de uma oportunidade para trabalhar com **Java**, seja
 - **Introdução a Banco de Dados SQL** - DIO.me
 - **Introdução ao MongoDB e Banco de Dados NoSQL** - DIO.me
 - **Introdução ao Spring Framework com Spring Boot** - DIO.me
+- **Java POO + Projetos** - Udemy
 
 ## Projetos
 - [Sistema de Gerenciamento de Filiais](https://github.com/suelenmedinape/projeto-JSF) - Sistema em JSF/JPA para cadastro de funcionários e filiais.
