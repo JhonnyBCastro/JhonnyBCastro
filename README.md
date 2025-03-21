@@ -1,4 +1,4 @@
-# Jhonny Castro - Estudante de Sistemas de Informação | Desenvolvedor Java
+# Jhonny Castro | Desenvolvedor Java
 
 Sou estudante de Sistemas de Informação, fascinado pelas possibilidades que a tecnologia pode oferecer, com um grande interesse em desenvolvimento de software, especialmente com Java.
 
