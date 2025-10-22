@@ -4,8 +4,6 @@ Sou estudante de Sistemas de Informação, fascinado pelas possibilidades que a 
 
 Apesar de encontrar desafios na fixação de alguns conceitos, meu entusiasmo e dedicação me mantêm motivado. Acredito que a prática é a melhor forma de solidificar o aprendizado, por isso busco constantemente aplicar o que aprendo em projetos e desafios práticos.
 
-## Em busca de novas oportunidades
-Atualmente, estou em busca de uma oportunidade para trabalhar com **Java**, seja no **desenvolvimento web**, **Android** ou **software**.
 
 ## Certificações e Cursos
 - **Java POO** - DIO.me
