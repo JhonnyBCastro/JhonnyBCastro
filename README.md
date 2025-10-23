@@ -19,25 +19,6 @@ Apesar de encontrar desafios na fixação de alguns conceitos, meu entusiasmo e 
 - [Plataforma de e-commerce](https://github.com/JhonnyBCastro/ecommerce-laticionios) - Plataforma de e-commerce para a venda de laticínios por encomenda, desenvolvida para um vendedor autônomo.
 - [Sistema de Gerenciar Histórico de Atendimentos](https://github.com/JhonnyBCastro/projeto-JSF-gerenciar-historico) - Sistema em JSF/JPA para gerenciar o histórico de atendimentos de pacientes e médicos em uma clínica.
 
-## Conhecimentos
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![JPA](https://img.shields.io/badge/JPA-4E2A8E?style=for-the-badge&logo=java&logoColor=white)
-![JSF](https://img.shields.io/badge/JSF-4A90E2?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### IDEs
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 
 ## Sistema Operacional
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
