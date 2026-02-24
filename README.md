@@ -1,34 +1,101 @@
-# Jhonny Castro | Desenvolvedor Java
+# Jhonata Castro
+Backend Developer | Java • Kotlin • Spring Boot
 
-Sou estudante de Sistemas de Informação, fascinado pelas possibilidades que a tecnologia pode oferecer, com um grande interesse em desenvolvimento de software, especialmente com Java.
+---
 
-Apesar de encontrar desafios na fixação de alguns conceitos, meu entusiasmo e dedicação me mantêm motivado. Acredito que a prática é a melhor forma de solidificar o aprendizado, por isso busco constantemente aplicar o que aprendo em projetos e desafios práticos.
+## 🇧🇷 Sobre
 
+Desenvolvedor Back-end com experiência no desenvolvimento e manutenção de APIs REST utilizando Java e Kotlin com Spring Boot.
 
-## Certificações e Cursos
-- **Java POO** - DIO.me
-- **Coleções em Java** - DIO.me
-- **Testes Unitários com JUnit** - DIO.me
-- **Desenvolvendo Testes utilizando Mockito** - DIO.me
-- **Introdução a Banco de Dados SQL** - DIO.me
-- **Introdução ao MongoDB e Banco de Dados NoSQL** - DIO.me
-- **Introdução ao Spring Framework com Spring Boot** - DIO.me
-- **Java POO + Projetos** - Udemy
+Tenho experiência prática no desenvolvimento e manutenção de APIs REST, integração com serviços externos e otimização de aplicações em ambiente real de startup.
 
-## Projetos
-- [Plataforma de e-commerce](https://github.com/JhonnyBCastro/ecommerce-laticionios) - Plataforma de e-commerce para a venda de laticínios por encomenda, desenvolvida para um vendedor autônomo.
-- [Sistema de Gerenciar Histórico de Atendimentos](https://github.com/JhonnyBCastro/projeto-JSF-gerenciar-historico) - Sistema em JSF/JPA para gerenciar o histórico de atendimentos de pacientes e médicos em uma clínica.
+Busco oportunidades como desenvolvedor back-end júnior para evoluir tecnicamente, contribuir com soluções escaláveis e aprofundar meus conhecimentos em arquitetura de sistemas e boas práticas de desenvolvimento.
 
+---
 
-## Sistema Operacional
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+## 🇺🇸 About
+
+Backend Developer with experience building and maintaining REST APIs using Java and Kotlin with Spring Boot.
+
+I have hands-on experience in developing and maintaining backend applications, integrating external services, and structuring systems using layered architecture.
+
+I am seeking backend opportunities to further improve my technical skills, contribute to scalable solutions, and deepen my knowledge in system architecture and software engineering best practices.
+
+---
+
+## Tech Stack
+
+**Backend**
+- Java
+- Kotlin
+- Spring Boot
+- REST APIs
+- JWT Authentication
+
+**Database**
+- Postgresql
+- Mysql
+- H2
+
+**Architecture & Practices**
+- Layered Architecture (Controller • Service • Repository)
+- API Integration
+- Refactoring & Code Organization
+- Business Rule Modeling
+
+**Tools**
+- Git
+- GitHub
+- Maven
+
+---
+
+## Highlighted Projects
+
+### 📚 Teaching Plan Automation System (TCC)
+
+Backend system designed to automate and standardize the process of academic teaching plan creation.
+
+- Role-based authentication (Professor / Coordinator)
+- Academic calendar and spreadsheet processing
+- Dynamic schedule generation
+- PDF export of teaching plans
+- Evolution from regex-based parsing to AI-assisted structured JSON generation
+
+---
+
+### 🧀 Dairy E-commerce Platform  
+🔗 https://github.com/JhonnyBCastro/ecommerce-laticionios
+
+Complete e-commerce platform for made-to-order dairy product sales.
+
+- JWT-based authentication
+- Product and order management
+- Admin dashboard
+- Layered backend architecture
+- Angular frontend integration
+
+---
+
+### 🚀 Xlead Club
+
+Backend development contribution to a funnel and landing page platform.
+
+- Core backend feature implementation
+- Structural refactoring and code organization
+- Technical collaboration in solution design
+- API maintenance and system evolution
+
+---
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JhonnyBCastro&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JhonnyBCastro)
 
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=JhonnyBCastro&theme=merko)
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonata-castro-dev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@bobycastro/)
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonata-castro-dev) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@bobycastro/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonny_bcastro/)
