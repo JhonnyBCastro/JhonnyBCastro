@@ -3,7 +3,7 @@ Backend Developer | Java • Kotlin • Spring Boot
 
 ---
 
-## 🇧🇷 Sobre
+## Sobre
 
 Desenvolvedor Back-end com experiência no desenvolvimento e manutenção de APIs REST utilizando Java e Kotlin com Spring Boot.
 
@@ -13,7 +13,7 @@ Busco oportunidades como desenvolvedor back-end júnior para evoluir tecnicament
 
 ---
 
-## 🇺🇸 About
+## About
 
 Backend Developer with experience building and maintaining REST APIs using Java and Kotlin with Spring Boot.
 
@@ -52,7 +52,7 @@ I am seeking backend opportunities to further improve my technical skills, contr
 
 ## Highlighted Projects
 
-### 📚 Teaching Plan Automation System (TCC)
+### Teaching Plan Automation System (TCC)
 
 Backend system designed to automate and standardize the process of academic teaching plan creation.
 
@@ -64,7 +64,7 @@ Backend system designed to automate and standardize the process of academic teac
 
 ---
 
-### 🧀 Dairy E-commerce Platform  
+### Dairy E-commerce Platform  
 🔗 https://github.com/JhonnyBCastro/ecommerce-laticionios
 
 Complete e-commerce platform for made-to-order dairy product sales.
@@ -77,7 +77,7 @@ Complete e-commerce platform for made-to-order dairy product sales.
 
 ---
 
-### 🚀 Xlead Club
+### Xlead Club
 
 Backend development contribution to a funnel and landing page platform.
 
