@@ -4,8 +4,6 @@
 
 # Sem pressa, uma ideia de cada vez. 🎧
 
-### Música • Jogos • Projetos
-
 Projetos, experimentos e outras coisas que fui criando pelo caminho.
 
 <p>
@@ -23,9 +21,5 @@ Projetos, experimentos e outras coisas que fui criando pelo caminho.
 ---
 
 <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=JhonnyBCastro&theme=merko" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=JhonnyBCastro&theme=merko&show_icons=true" />
 
 </div>
