@@ -18,6 +18,34 @@ Projetos, experimentos e outras coisas que fui criando pelo caminho.
   </a>
 </p>
 
+
+<hr>
+
+<h3>Algumas coisas pelo caminho</h3>
+
+<p>
+  <strong>🎮 Auto-Repair Box</strong>
+  <br>
+  Uma ideia que surgiu enquanto jogava 7 Days to Die
+  e acabou virando um mod de reparo automático.
+  <br><br>
+  <a href="https://www.nexusmods.com/7daystodie/mods/10934">Nexus Mods</a>
+  &nbsp;·&nbsp;
+  <a href="https://7daystodiemods.com/mods/auto-repair-workbench-core-mod">7DaysToDieMods</a>
+</p>
+
+<br>
+
+<p>
+  <strong>📄 document-editor</strong>
+  <br>
+  Uma biblioteca de paginação visual para editores
+  de documentos. Mais uma ideia que acabou crescendo.
+  <br><br>
+  <a href="https://github.com/JhonnyBCastro/document-editor">GitHub</a>
+</p>
+
+
 ---
 
 <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=JhonnyBCastro&theme=merko" />
