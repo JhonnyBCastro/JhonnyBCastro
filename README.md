@@ -1,35 +1,31 @@
-# Jhonata Castro
-Backend Developer | Java • Kotlin • Spring Boot
+<div align="center">
+
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/27445.jpg" alt="banner" width="100%" />
+
+# Sem pressa, uma ideia de cada vez. 🎧
+
+### Música • Jogos • Projetos
+
+Projetos, experimentos e outras coisas que fui criando pelo caminho.
+
+<p>
+  <a href="https://www.linkedin.com/in/jhonata-castro-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="SEU_LINK_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="SEU_LINK_STEAM">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Sobre
+<img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=JhonnyBCastro&theme=merko" />
 
-Desenvolvedor Back-end com experiência no desenvolvimento e manutenção de APIs REST utilizando Java e Kotlin com Spring Boot.
+<br>
 
-Tenho experiência prática no desenvolvimento e manutenção de APIs REST, integração com serviços externos e otimização de aplicações em ambiente real de startup.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonnyBCastro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 
-Busco oportunidades como desenvolvedor back-end júnior para evoluir tecnicamente, contribuir com soluções escaláveis e aprofundar meus conhecimentos em arquitetura de sistemas e boas práticas de desenvolvimento.
-
----
-
-## About
-
-Backend Developer with experience building and maintaining REST APIs using Java and Kotlin with Spring Boot.
-
-I have hands-on experience in developing and maintaining backend applications, integrating external services, and structuring systems using layered architecture.
-
-I am seeking backend opportunities to further improve my technical skills, contribute to scalable solutions, and deepen my knowledge in system architecture and software engineering best practices.
-
----
-
-## GitHub Stats
-
-![](https://github-readme-streak-stats-eight.vercel.app/?user=JhonnyBCastro&theme=merko)
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonata-castro-dev) 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@bobycastro/)
+</div>
