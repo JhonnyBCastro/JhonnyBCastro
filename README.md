@@ -15,7 +15,7 @@ Projetos, experimentos e outras coisas que fui criando pelo caminho.
   <a href="SEU_LINK_DISCORD">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="SEU_LINK_STEAM">
+  <a href="https://steamcommunity.com/profiles/76561199350261295/">
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </p>
